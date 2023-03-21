@@ -1,0 +1,6 @@
+void @TEST_FUNCTION@();
+
+int main()
+{
+  @TEST_FUNCTION@();
+}
