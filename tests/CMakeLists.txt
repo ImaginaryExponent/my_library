@@ -1,4 +1,4 @@
-include( ${CMAKE_CURRENT_SOURCE_DIR}/cmake/MakeEasyTest.cmake)
+include (${CMAKE_CURRENT_SOURCE_DIR}/cmake/MakeEasyTest.cmake)
 
 set(MY_LIBRARY my_library)
 set(MAIN_TEMPLATE ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp.in)
