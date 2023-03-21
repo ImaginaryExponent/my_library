@@ -46,7 +46,7 @@ target_include_directories(my_library INTERFACE $<BUILD_INTERFACE:${CMAKE_CURREN
 target_sources(my_library INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}/include/my_library/my_template.hpp)
 ```
 
-While this hasn't been intended in the CMake script above I inadvertently touched on two subjects and [here](./doc/Advanced.md) is the obligatory shoutout.
+While this hasn't been intended in the CMake script above I inadvertently touched on two advanced subjects and [here](./doc/Advanced.md) is the obligatory shoutout.
 
 You can try building our folder at this point to double check or just believe me when I say that it is buildable. Granted, it does not produce any artifacts worth noting, but the whole thing is on the right track.
 
