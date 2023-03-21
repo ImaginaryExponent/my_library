@@ -1,6 +1,6 @@
 [![CMake](https://github.com/ImaginaryExponent/my_library/actions/workflows/cmake.yml/badge.svg)](https://github.com/ImaginaryExponent/my_library/actions/workflows/cmake.yml)
 
-Thank you kindly, [Victor](https://www.linkedin.com/in/victor-istomin-b753b666), for the review and critique.
+Thank you kindly, [Victor](https://github.com/victor-istomin), for the review and critique.
 
 # Convenient testing at a small scale.
 ![One does not simply test with CMake and CTest out of the box](./doc/imgs/one_does_not.jpg)
